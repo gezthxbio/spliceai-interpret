@@ -1,0 +1,7 @@
+##fileformat=VCFv4.2
+##contig=<ID=chrDemo,length=220>
+##INFO=<ID=SpliceAI,Number=.,Type=String,Description="SpliceAI predictions. Format: ALLELE|SYMBOL|DS_AG|DS_AL|DS_DG|DS_DL|DP_AG|DP_AL|DP_DG|DP_DL">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chrDemo	42	.	A	G	.	PASS	SpliceAI=G|DEMO|0.00|0.00|0.88|0.93|0|0|-1|-2
+chrDemo	60	.	C	T	.	PASS	SpliceAI=T|DEMO|0.00|0.90|0.00|0.80|0|-25|0|-20
+chrDemo	147	.	A	G	.	PASS	SpliceAI=G|DEMO|0.83|0.00|0.91|0.00|3|0|8|0

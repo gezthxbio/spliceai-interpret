@@ -1,0 +1,11 @@
+# Synthetic transcript for spliceai-interpret
+chrDemo	demo	exon	1	21	.	+	.	gene_id "DEMO"; transcript_id "DEMO_TX.1"; gene_name "DEMO";
+chrDemo	demo	start_codon	1	3	.	+	0	gene_id "DEMO"; transcript_id "DEMO_TX.1"; gene_name "DEMO";
+chrDemo	demo	CDS	1	21	.	+	0	gene_id "DEMO"; transcript_id "DEMO_TX.1"; gene_name "DEMO";
+chrDemo	demo	exon	35	40	.	+	.	gene_id "DEMO"; transcript_id "DEMO_TX.1"; gene_name "DEMO";
+chrDemo	demo	CDS	35	40	.	+	0	gene_id "DEMO"; transcript_id "DEMO_TX.1"; gene_name "DEMO";
+chrDemo	demo	exon	60	140	.	+	.	gene_id "DEMO"; transcript_id "DEMO_TX.1"; gene_name "DEMO";
+chrDemo	demo	CDS	60	140	.	+	0	gene_id "DEMO"; transcript_id "DEMO_TX.1"; gene_name "DEMO";
+chrDemo	demo	exon	180	199	.	+	.	gene_id "DEMO"; transcript_id "DEMO_TX.1"; gene_name "DEMO";
+chrDemo	demo	CDS	180	182	.	+	0	gene_id "DEMO"; transcript_id "DEMO_TX.1"; gene_name "DEMO";
+chrDemo	demo	stop_codon	183	185	.	+	0	gene_id "DEMO"; transcript_id "DEMO_TX.1"; gene_name "DEMO";
